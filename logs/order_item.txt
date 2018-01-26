@@ -1,0 +1,1046 @@
+
+2018-01-17 05:49:05 ... order_item................::
+1
+========================================
+
+2018-01-17 05:49:05 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 121
+                    [title] => Sentry, Multivitamin & Multimineral Supplement
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22702
+                    [expiration_date] => 2020-01-01
+                    [upc_code] => 740985227022
+                    [source_url] => 
+                    [description] => <h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block; font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: 700;">Description</strong></h3>
+
+<div itemprop="description" style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<ul style="box-sizing: border-box; margin: 0px 0px 0px 30px; padding: 0px; outline-color: transparent; list-style: none;">
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Over 30 Key Nutrients for Complete Nutrition</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Compare Active Ingredients to Centrum&reg;&dagger;</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Guaranteed Quality - Laboratory Tested</li>
+</ul>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">21st Century&#39;s Sentry is the complete multivitamin &amp; multimineral formula with the recommended daily intake and more. Support yourself and your family with the best, 21st Century&#39;s Sentry, featuring the complete antioxidant group.</p>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">As a dietary supplement, adults take one (1) tablet daily with any meal or as directed by your healthcare provider. Do not exceed recommended dosage. Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Cellulose, starch, stearic acid, polyvinyl alcohol, titanium dioxide, croscarmellose sodium, PEG, silicon dioxide, talc, magnesium stearate, citric acid, artificial color (FD&amp;C yellow #6).</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">No added sugar, yeast, preservatives or artificial flavors.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">&dagger;Centrum&reg; is a registered trademark of Wyeth Consumer Healthcare, Madison, NJ 07940</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Warnings</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Consult a healthcare provider prior to use if: pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;"><strong style="box-sizing: border-box; font-weight: 700;">Important information:</strong><span>&nbsp;</span>Extended use of high levels of Vitamin A (excluding Beta Carotene as the source) may increase the risk to adults of developing osteoporosis. Do not use this product if using other Vitamin A supplements.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or Poison Control Center immediately.</p>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 12.78
+                    [old_price] => 17.05
+                    [abbr] => en
+                    [for_id] => 69
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 01:29:28
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.56 kg 
+                )
+
+        )
+
+    [1] => 12.78
+)
+
+========================================
+
+2018-01-17 06:37:46 ... order_item................::
+1
+========================================
+
+2018-01-17 06:37:46 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 270
+                    [title] => Pet Natural Care, Adult Multi Daily Formula, Liver Flavor, 75 Chewables
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-27481
+                    [expiration_date] => 2020-05-01
+                    [upc_code] => 740985274811
+                    [source_url] => https://au.iherb.com/pr/21st-Century-Pet-Natural-Care-Adult-Multi-Daily-Formula-Liver-Flavor-75-Chewables/52446
+                    [description] => <div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Description</strong></h3>
+
+<div itemprop="description">
+<ul>
+	<li>Veterinarian Formulated</li>
+	<li>Daily Multivitamin &amp; Multimineral Support</li>
+	<li>For Dogs Over 1 Year of Age</li>
+	<li>Adult Dog</li>
+	<li>Laboratory Tested - Guaranteed Quality</li>
+	<li>Quality Seal NASC - National Animal Supplement Council</li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail">
+<table border="1" cellpadding="3" cellspacing="0" width="100%">
+	<tbody>
+		<tr align="left" valign="top">
+			<td width="50%"><strong>Dog Weight</strong></td>
+			<td colspan="3" width="50%"><strong>Number of Chewables</strong></td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Up to 20 lbs</td>
+			<td colspan="3">1 Chewable Daily</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>21-40 lbs</td>
+			<td colspan="3">2 Chewables Daily</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>41-60 lbs</td>
+			<td colspan="3">3 Chewables Daily</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Over 60 lbs</td>
+			<td colspan="3">4 Chewables Daily</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred">
+<p>Dicalcium phosphate, sucrose, microcrystalline cellulose, ascorbic acid, liver meal, stearic acid, natural flavor, potassium chloride, safflower oil powder, magnesium stearate, silicon dioxide, niacinamide, magnesium oxide, ferrous fumarate, potassium iodide, soy protein, dl-alpha tocopheryl acetate (source of vitamin E), vitamin A acetate, zinc oxide, riboflavin, thiamine mononitrate, manganese sulfate, copper sulfate, vitamin D3 supplement, pyridoxine hydrochloride, vitamin B12 supplement.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Warnings</strong></h3>
+
+<div class="prodOverviewDetail">
+<p>This product is intended for intermittent or supplemental feeding only.</p>
+
+<p>For animals use only.</p>
+
+<p>Keep out of the reach of children and animals. In case of accidental overdose, contact a health professional immediately.</p>
+
+<p>Do not use if product appears to be tampered with or seal is broken. Store product in cool, dry place. Avoid temperatures above 86&deg;F.</p>
+</div>
+</div>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <table border="1" cellpadding="3" cellspacing="0" width="100%">
+	<tbody>
+		<tr align="left" valign="top">
+			<td colspan="2"><strong>Guaranteed Analysis per chewable:</strong><br />
+			(all quantities are minimum unless otherwise stated)</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td width="50%">Crude Protein (min.)</td>
+			<td width="50%">5%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Crude Fat (min.)</td>
+			<td>8%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Crude Fiber (max.)</td>
+			<td>18%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Moisture (max.)</td>
+			<td>10%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Calcium (min.)<br />
+			(max.)</td>
+			<td>6%<br />
+			8%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Phosphorus</td>
+			<td>5%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Potassium</td>
+			<td>0.8%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Chloride</td>
+			<td>0.7%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Magnesium</td>
+			<td>0.2%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Iron</td>
+			<td>3 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Copper</td>
+			<td>0.1 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Manganese</td>
+			<td>0.25 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Zinc</td>
+			<td>1.5 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Iodine</td>
+			<td>0.05 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Vitamin A</td>
+			<td>1000 IU</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Vitamin D3</td>
+			<td>100 IU</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Vitamin E</td>
+			<td>2 IU</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Thiamine</td>
+			<td>0.8 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Riboflavin</td>
+			<td>1.0 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Niacin</td>
+			<td>10.0 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Pyridoxine</td>
+			<td>0.1 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Vitamin B12</td>
+			<td>0.0005 mg</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Ascorbic Acid (Vitamin C)*</td>
+			<td>120 mg</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>(Each chewable tablets weighs a minimum of 1.7 gm)</p>
+
+<p>*Not recognized as an essential nutrient by the AAFCO Dog Food Nutrient Profiles.</p>
+
+                    [cost_price] => 
+                    [price] => 20.28
+                    [old_price] => 25.33
+                    [abbr] => en
+                    [for_id] => 203
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-25 03:59:08
+                    [product_added_by] => 7
+                    [dimension] =>  6.1 x 6.1 x 11.2 cm
+                    [package_qty] => 75 Chewables
+                    [weight] => 0.19 kg 
+                )
+
+        )
+
+    [1] => 243.36
+)
+
+========================================
+
+2018-01-17 07:00:15 ... order_item................::
+1
+========================================
+
+2018-01-17 07:00:15 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 227
+                    [title] => Cal Mag Zinc + D3, 90 Tablets
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22263
+                    [expiration_date] => 2020-01-01
+                    [upc_code] =>  740985222638
+                    [source_url] => https://au.iherb.com/pr/21st-Century-Cal-Mag-Zinc-D3-90-Tablets/10695
+                    [description] => <div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Description</strong></h3>
+
+<div itemprop="description">
+<ul>
+	<li>Dietary Supplement</li>
+	<li>The Important Trio Of Minerals + Vitamin D3 Promotes Strong Bones &amp; Teeth</li>
+	<li>21st Century... For a Healthier Future</li>
+	<li>Laboratory Tested - Guaranteed Quality</li>
+</ul>
+
+<p><strong>Cal Mag Zinc+D3</strong></p>
+
+<p>Calcium, Magnesium and Zinc plus Vitamin D3 promotes strong bones and teeth. This important trio + D3 also helps to maintain normal heart and muscle functions. 21st Century offers you 100% of recommended daily value in three easy-to-swallow Cal Mag Zinc + D3 tablets.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail">
+<p>Take three (3) tablets daily with any meal for maximum daily results, or as directed by your healthcare provider. Do not exceed recommended dosage.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred">
+<p>Cellulose, stearic acid, croscarmellose sodium, magnesium silicate, polyvinyl alcohol, silicone dioxide, titanium dioxide, magnesium stearate.</p>
+
+<p>Gluten free. No added sugar, yeast, preservatives, or artificial flavors.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Warnings</strong></h3>
+
+<div class="prodOverviewDetail">
+<p>Keep out of reach of children.</p>
+
+<p>Do not use if product appears to be tampered with or seal is broken.</p>
+
+<p>Store at room temperature.</p>
+</div>
+</div>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row">
+<div class="col-xs-24 col-md-10">
+<div class="supplement-facts-container">
+<table border="1" cellpadding="3" cellspacing="0" width="100%">
+	<tbody>
+		<tr align="left" valign="top">
+			<td colspan="3"><strong>Supplement Facts</strong></td>
+		</tr>
+		<tr align="left" valign="top">
+			<td colspan="3"><strong>Serving Size:</strong> 3 Tablets</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td colspan="3"><strong>Servings Per Container:</strong> 30</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td width="70%">&nbsp;</td>
+			<td width="15%"><strong>Amount Per Serving</strong></td>
+			<td width="15%"><strong>% DV</strong></td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Vitamin D3 (as Cholecalciferol)</td>
+			<td>400 IU</td>
+			<td>100%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Calcium (as carbonate)</td>
+			<td>1000 mg</td>
+			<td>100%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Magnesium (as oxide)</td>
+			<td>400 mg</td>
+			<td>100%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td>Zinc (as oxide)</td>
+			<td>15 mg</td>
+			<td>100%</td>
+		</tr>
+		<tr align="left" valign="top">
+			<td colspan="3">Percent Daily Value (DV).</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 9.48
+                    [old_price] => 12.65
+                    [abbr] => en
+                    [for_id] => 160
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-25 01:05:04
+                    [product_added_by] => 8
+                    [dimension] =>  9.7 x 6.1 x 4.6 cm , 0.16 kg 
+                    [package_qty] =>  90 Tablets
+                    [weight] => 0.19 kg
+                )
+
+        )
+
+    [1] => 9.48
+)
+
+========================================
+
+2018-01-17 07:15:01 ... order_item................::
+1
+========================================
+
+2018-01-17 07:15:01 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 121
+                    [title] => Sentry, Multivitamin & Multimineral Supplement
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22702
+                    [expiration_date] => 2020-01-01
+                    [upc_code] => 740985227022
+                    [source_url] => 
+                    [description] => <h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block; font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: 700;">Description</strong></h3>
+
+<div itemprop="description" style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<ul style="box-sizing: border-box; margin: 0px 0px 0px 30px; padding: 0px; outline-color: transparent; list-style: none;">
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Over 30 Key Nutrients for Complete Nutrition</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Compare Active Ingredients to Centrum&reg;&dagger;</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Guaranteed Quality - Laboratory Tested</li>
+</ul>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">21st Century&#39;s Sentry is the complete multivitamin &amp; multimineral formula with the recommended daily intake and more. Support yourself and your family with the best, 21st Century&#39;s Sentry, featuring the complete antioxidant group.</p>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">As a dietary supplement, adults take one (1) tablet daily with any meal or as directed by your healthcare provider. Do not exceed recommended dosage. Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Cellulose, starch, stearic acid, polyvinyl alcohol, titanium dioxide, croscarmellose sodium, PEG, silicon dioxide, talc, magnesium stearate, citric acid, artificial color (FD&amp;C yellow #6).</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">No added sugar, yeast, preservatives or artificial flavors.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">&dagger;Centrum&reg; is a registered trademark of Wyeth Consumer Healthcare, Madison, NJ 07940</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Warnings</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Consult a healthcare provider prior to use if: pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;"><strong style="box-sizing: border-box; font-weight: 700;">Important information:</strong><span>&nbsp;</span>Extended use of high levels of Vitamin A (excluding Beta Carotene as the source) may increase the risk to adults of developing osteoporosis. Do not use this product if using other Vitamin A supplements.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or Poison Control Center immediately.</p>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 12.78
+                    [old_price] => 17.05
+                    [abbr] => en
+                    [for_id] => 69
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 01:29:28
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.56 kg 
+                )
+
+        )
+
+    [1] => 127.8
+)
+
+========================================
+
+2018-01-17 07:25:41 ... order_item................::
+1
+========================================
+
+2018-01-17 07:25:41 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 121
+                    [title] => Sentry, Multivitamin & Multimineral Supplement
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22702
+                    [expiration_date] => 2020-01-01
+                    [upc_code] => 740985227022
+                    [source_url] => 
+                    [description] => <h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block; font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: 700;">Description</strong></h3>
+
+<div itemprop="description" style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<ul style="box-sizing: border-box; margin: 0px 0px 0px 30px; padding: 0px; outline-color: transparent; list-style: none;">
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Over 30 Key Nutrients for Complete Nutrition</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Compare Active Ingredients to Centrum&reg;&dagger;</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Guaranteed Quality - Laboratory Tested</li>
+</ul>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">21st Century&#39;s Sentry is the complete multivitamin &amp; multimineral formula with the recommended daily intake and more. Support yourself and your family with the best, 21st Century&#39;s Sentry, featuring the complete antioxidant group.</p>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">As a dietary supplement, adults take one (1) tablet daily with any meal or as directed by your healthcare provider. Do not exceed recommended dosage. Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Cellulose, starch, stearic acid, polyvinyl alcohol, titanium dioxide, croscarmellose sodium, PEG, silicon dioxide, talc, magnesium stearate, citric acid, artificial color (FD&amp;C yellow #6).</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">No added sugar, yeast, preservatives or artificial flavors.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">&dagger;Centrum&reg; is a registered trademark of Wyeth Consumer Healthcare, Madison, NJ 07940</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Warnings</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Consult a healthcare provider prior to use if: pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;"><strong style="box-sizing: border-box; font-weight: 700;">Important information:</strong><span>&nbsp;</span>Extended use of high levels of Vitamin A (excluding Beta Carotene as the source) may increase the risk to adults of developing osteoporosis. Do not use this product if using other Vitamin A supplements.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or Poison Control Center immediately.</p>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 12.78
+                    [old_price] => 17.05
+                    [abbr] => en
+                    [for_id] => 69
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 01:29:28
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.56 kg 
+                )
+
+        )
+
+    [1] => 127.8
+)
+
+========================================
+
+2018-01-19 00:22:57 ... order_item................::
+1
+========================================
+
+2018-01-19 00:22:57 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 121
+                    [title] => Sentry, Multivitamin & Multimineral Supplement
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22702
+                    [expiration_date] => 2020-01-01
+                    [upc_code] => 740985227022
+                    [source_url] => 
+                    [description] => <h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block; font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: 700;">Description</strong></h3>
+
+<div itemprop="description" style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<ul style="box-sizing: border-box; margin: 0px 0px 0px 30px; padding: 0px; outline-color: transparent; list-style: none;">
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Over 30 Key Nutrients for Complete Nutrition</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Compare Active Ingredients to Centrum&reg;&dagger;</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Guaranteed Quality - Laboratory Tested</li>
+</ul>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">21st Century&#39;s Sentry is the complete multivitamin &amp; multimineral formula with the recommended daily intake and more. Support yourself and your family with the best, 21st Century&#39;s Sentry, featuring the complete antioxidant group.</p>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">As a dietary supplement, adults take one (1) tablet daily with any meal or as directed by your healthcare provider. Do not exceed recommended dosage. Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Cellulose, starch, stearic acid, polyvinyl alcohol, titanium dioxide, croscarmellose sodium, PEG, silicon dioxide, talc, magnesium stearate, citric acid, artificial color (FD&amp;C yellow #6).</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">No added sugar, yeast, preservatives or artificial flavors.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">&dagger;Centrum&reg; is a registered trademark of Wyeth Consumer Healthcare, Madison, NJ 07940</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Warnings</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Consult a healthcare provider prior to use if: pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;"><strong style="box-sizing: border-box; font-weight: 700;">Important information:</strong><span>&nbsp;</span>Extended use of high levels of Vitamin A (excluding Beta Carotene as the source) may increase the risk to adults of developing osteoporosis. Do not use this product if using other Vitamin A supplements.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or Poison Control Center immediately.</p>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 12.78
+                    [old_price] => 17.05
+                    [abbr] => en
+                    [for_id] => 69
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 01:29:28
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.56 kg 
+                )
+
+        )
+
+    [1] => 127.8
+)
+
+========================================
+
+2018-01-19 00:55:52 ... order_item................::
+2
+========================================
+
+2018-01-19 00:55:52 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 125
+                    [title] => 1000 Roses Cleansing Foam
+                    [manufacturer_id] => 11
+                    [manufacturer] => Andalou Naturals
+                    [product_code] => ADN-02001
+                    [expiration_date] => 2021-01-01
+                    [upc_code] => 859975020014
+                    [source_url] => 
+                    [description] => <h3><strong>Description</strong></h3>
+
+<ul>
+	<li>Nature&#39;s Intelligence</li>
+	<li>Fruit Stem Cell Science</li>
+	<li>New Look</li>
+	<li>Non GMO</li>
+	<li>With Rose Stem Cells Soothing Resilience</li>
+	<li>pH Balanced and Hypoallergenic</li>
+	<li>Dermatologist Tested</li>
+	<li>Beauty Is You</li>
+	<li>Nature 99% Derived</li>
+	<li>Non-GMO Project Verified</li>
+	<li>Verified Gluten Free</li>
+	<li>Vegan</li>
+	<li>Cruelty-Free</li>
+</ul>
+
+<p><strong>Sensitive Solutions For:</strong></p>
+
+<ul>
+	<li>Delicate &amp; Dry Skin</li>
+	<li>Easily Irritated</li>
+	<li>Uneven &amp; Blotchy</li>
+	<li>Over-Exposed</li>
+</ul>
+
+<p>This refreshing rosewater foam, with alpine rose stem cells, loosens and sweeps away make-up, impurities, and dull, dry surface cells as pomegranate uplifts tone and hyaluronic acid and aloe vera help revive skin&#39;s moisture barrier for a flawless looking complexion.</p>
+
+<p>PhytoCellTec Alpine Rose Stem Cells support the skin&#39;s hydro lipid barrier to help counteract inflammation and the look of premature aging, uplifting appearance and resilience.</p>
+
+<p>Skin&#39;s truest self is fully realized with a portfolio of nature&#39;s most potent bioactives and the innovation that capture&#39;s it all, Fruit Stem Cell Science.</p>
+
+<h3><strong>Suggested Use</strong></h3>
+
+<p>AM &amp; PM.</p>
+
+<p>Apply to damp skin, gently massage, and rinse clean.</p>
+
+<h3><strong>Other Ingredients</strong></h3>
+
+<p>Aloe barbadensis leaf juice*, purified water (aqua), rosa damascena (rose) flower distillate*, cocamidopropyl betaine, sodium olefin sulfonate, vegetable glycerin, panthenol, sorbitol, glyceryl caprylate/caprate, rosa canina (rosehip) fruit oil*, punica granatum (pomegranate) seed oil*, allantoin, plant stem cells (alpine rose, malus domestica, solar vitis) and bioactive 8 berry complex, soothing complex: [Sodium hyaluronate, magnolia officinalis bark extract, boswellia serrata (boswellin) extract], camellia sinensis (white tea) leaf extract*&dagger;, hibiscus sabdariffa flower extract*&dagger;, lactic acid, tocopherol, sodium benzoate, potassium sorbate, ethylhexylglycerin, rose isolates, vanilla isolates, pelargonium graveolens (rose geranium) flower oil*, citrus aurantium dulcis (orange) peel oil*</p>
+
+<p>* Certified organic</p>
+
+<p>&dagger; Fair trade ingredients</p>
+
+<h3><strong>Warnings</strong></h3>
+
+<p>For external use only.</p>
+
+<p>Avoid direct contact with eyes.</p>
+
+                    [basic_description] => 
+                    [description_r] => 
+                    [cost_price] => 
+                    [price] => 11.01
+                    [old_price] => 12.95
+                    [abbr] => en
+                    [for_id] => 73
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 02:08:24
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.29 kg 
+                )
+
+        )
+
+    [1] => 11.01
+)
+
+========================================
+
+2018-01-19 00:55:52 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 256
+                    [title] => Jarro-Dophilus EPS, 5 Billion, 120 Veggie Caps
+                    [manufacturer_id] => 0
+                    [manufacturer] => 
+                    [product_code] => JRW-03024
+                    [expiration_date] => 2018-08-01
+                    [upc_code] =>  790011030249
+                    [source_url] => https://au.iherb.com/pr/Jarrow-Formulas-Jarro-Dophilus-EPS-5-Billion-120-Veggie-Caps/7006
+                    [description] => <div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Description</strong></h3>
+
+<div itemprop="description">
+<ul>
+	<li>Enhanced Probiotic System</li>
+	<li>EnteroGuard Coating</li>
+	<li>With Clinically Documented Strains</li>
+	<li>Room Temperature Stable</li>
+	<li>8 Beneficial Probiotic Strains</li>
+	<li>Intestinal &amp; Immune Function &amp; Health</li>
+	<li>Individually Blister Sealed</li>
+	<li>Probiotic Supplement</li>
+	<li>5 Billion Per Capsule</li>
+	<li>Jarrow Formulas Puts the &quot;PRO&quot; in Probiotics</li>
+	<li>Gluten Free</li>
+	<li>Non GMO</li>
+	<li>Vegetarian</li>
+</ul>
+
+<p>EnteroGuard ensures the maximum survival of probiotic bacteria to the small intestines, and hence enhances their effectiveness.</p>
+
+<p>Jarro-Dophilus EPS is ideal for traveling when refrigeration is not readily available. Capsules are individually blister packed to help ensure shelf stability.</p>
+
+<p>Jarro-Dophilus EPS is a Stable-Dophilus probiotic due to its shelf life stability at room temperature and its enteric coating delivery system, which protects the beneficial probiotic strains while in transit through the stomach&#39;s acidic environment. The delivery system ensures that a maximum number of viable cells are delivered into the intestinal tract, where they can fully exert their beneficial effects. The strains in Jarro-Dophilus EPS are selected from the following 4 genera:</p>
+
+<p><strong>Lactobacillus, Bifidobacterium, Lactococcus and Pediococcus.</strong></p>
+
+<p>Probiotic strains such as B. longum BB536, L-rhamnosus R0011 and L. helveticus R0052 are well characterized and have been shown to have the ability to interact, via multiple mechanisms of action, with the intestinal tract and the microbial ecosystem within it. These strains have been clinically shown to have a positive influence on the composition of the intestinal microflora, promote intestinal health and support immune response.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail">
+<p>Take 1 capsule up to 4 times per day with water or juice, preferably on an empty stomach, or as directed by your qualified healthcare professional.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred">
+<p>Potato starch, magnesium stearate (vegetable source) and vitamin C. Vegetarian capsule consists of hydroxypropylmethylcellulose and an aqueous-based enteric coating.</p>
+
+<p><strong>Contains:</strong> Dairy (milk) and soy (in trace amounts).</p>
+
+<p>No wheat, no gluten, no egg, no fish/shellfish, no peanuts/tree nuts.</p>
+
+<p>5 Billion viable cells per capsule at time of consumption, under recommended storage conditions, and within Best Used Before Date.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row">
+<div class="col-xs-24">
+<h3><strong>Warnings</strong></h3>
+
+<div class="prodOverviewDetail">
+<p><strong>Storage Instructions:</strong> Jarro-Dophilus EPS is room temperature stable and does not require refrigeration. Refrigeration will, however, extend the shelf-life. Avoid temperatures above 77&deg;F (25&deg;C).</p>
+
+<p>Keep out of the reach of children.</p>
+</div>
+</div>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => 
+                    [cost_price] => 
+                    [price] => 93.08
+                    [old_price] => 132.95
+                    [abbr] => en
+                    [for_id] => 189
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-25 03:22:38
+                    [product_added_by] => 8
+                    [dimension] =>  8.1 x 8.1 x 12.7 cm , 0.14 kg 
+                    [package_qty] =>  120 Veggie Caps
+                    [weight] => 0.16 kg 
+                )
+
+        )
+
+    [1] => 6701.76
+)
+
+========================================
+
+2018-01-19 02:31:25 ... order_item................::
+NULL
+========================================
+
+2018-01-19 04:15:35 ... order_item................::
+1
+========================================
+
+2018-01-19 04:15:35 ... order_item................::
+Array
+(
+    [0] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 121
+                    [title] => Sentry, Multivitamin & Multimineral Supplement
+                    [manufacturer_id] => 7
+                    [manufacturer] => 21st Century
+                    [product_code] => CEN-22702
+                    [expiration_date] => 2020-01-01
+                    [upc_code] => 740985227022
+                    [source_url] => 
+                    [description] => <h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block; font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong style="box-sizing: border-box; font-weight: 700;">Description</strong></h3>
+
+<div itemprop="description" style="box-sizing: border-box; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<ul style="box-sizing: border-box; margin: 0px 0px 0px 30px; padding: 0px; outline-color: transparent; list-style: none;">
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Over 30 Key Nutrients for Complete Nutrition</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Compare Active Ingredients to Centrum&reg;&dagger;</li>
+	<li style="box-sizing: border-box; list-style-position: outside; list-style-type: disc; margin: 6px 0px;">Guaranteed Quality - Laboratory Tested</li>
+</ul>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">21st Century&#39;s Sentry is the complete multivitamin &amp; multimineral formula with the recommended daily intake and more. Support yourself and your family with the best, 21st Century&#39;s Sentry, featuring the complete antioxidant group.</p>
+</div>
+
+                    [basic_description] => 
+                    [description_r] => <div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Suggested Use</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">As a dietary supplement, adults take one (1) tablet daily with any meal or as directed by your healthcare provider. Do not exceed recommended dosage. Individual results may vary.</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Other Ingredients</strong></h3>
+
+<div class="prodOverviewIngred" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Cellulose, starch, stearic acid, polyvinyl alcohol, titanium dioxide, croscarmellose sodium, PEG, silicon dioxide, talc, magnesium stearate, citric acid, artificial color (FD&amp;C yellow #6).</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">No added sugar, yeast, preservatives or artificial flavors.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">&dagger;Centrum&reg; is a registered trademark of Wyeth Consumer Healthcare, Madison, NJ 07940</p>
+</div>
+</div>
+</div>
+
+<div class="row item-row" style="box-sizing: border-box; margin-left: -15px; margin-right: -15px; padding: 10px 4px; color: rgb(0, 0, 0); font-family: Lato, DroidArabicKufi, Arial, &quot;Hiragino Sans GB&quot;, &quot;Microsoft Yahei&quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;">
+<div class="col-xs-24" style="box-sizing: border-box; position: relative; min-height: 1px; padding-left: 15px; padding-right: 15px; float: left; width: 645.328px;">
+<h3 style="box-sizing: border-box; font-size: 17px; font-weight: 700; color: rgb(0, 0, 0); margin: 0px; display: block;"><strong style="box-sizing: border-box; font-weight: 700;">Warnings</strong></h3>
+
+<div class="prodOverviewDetail" style="box-sizing: border-box;">
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Consult a healthcare provider prior to use if: pregnant, nursing, on medications, have a medical condition or are planning a medical procedure. Stop use and contact a physician if adverse reactions occur.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Keep out of reach of children. Do not use if product appears to be tampered with or seal is broken. Store at room temperature.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;"><strong style="box-sizing: border-box; font-weight: 700;">Important information:</strong><span>&nbsp;</span>Extended use of high levels of Vitamin A (excluding Beta Carotene as the source) may increase the risk to adults of developing osteoporosis. Do not use this product if using other Vitamin A supplements.</p>
+
+<p style="box-sizing: border-box; padding: 0px; margin: 0px 0px 15px;">Accidental overdose of iron-containing products is a leading cause of fatal poisoning in children under 6. Keep this product out of the reach of children. In case of accidental overdose, call a doctor or Poison Control Center immediately.</p>
+</div>
+</div>
+</div>
+
+                    [cost_price] => 
+                    [price] => 12.78
+                    [old_price] => 17.05
+                    [abbr] => en
+                    [for_id] => 69
+                    [type] => product
+                    [name] => 
+                    [product_added_date] => 2017-09-08 01:29:28
+                    [product_added_by] => 0
+                    [dimension] => 
+                    [package_qty] => 
+                    [weight] => 0.56 kg 
+                )
+
+        )
+
+    [1] => 12.78
+)
+
+========================================

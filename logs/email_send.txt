@@ -1,0 +1,220 @@
+
+2017-12-07 12:38:26 ... Params................::
+Array
+(
+    [to] => debojyotip@gmail.com
+    [subject] => Order ID #1236
+    [txt] => Hello Test001,<br><br>your Order has been placed at Aussie Vitamin Store. Your order id #1236 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-07 12:43:57 ... Params................::
+Array
+(
+    [to] => debojyotip@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1237
+    [txt] => Hello Test001,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1237 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-09 12:06:29 ... Params................::
+Array
+(
+    [to] => ghosh.moupia@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1238
+    [txt] => Hello Itinguisher,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1238 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-09 12:06:30 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1238 from Itinguisher
+    [txt] => Hello,  <br><br>Itinguisher has placed the order at Aussie Vitamin Store. The order id #1238 . <br><br> 
+)
+
+========================================
+
+2017-12-10 11:38:47 ... Params................::
+Array
+(
+    [to] => debojyotip@gmail.com
+    [subject] => Aussie Vitamin Store: Account recovery Password: Confidential
+    [txt] => Hello Test001,<br><br>Your new password is #69836 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-10 11:40:38 ... Params................::
+Array
+(
+    [to] => debojyotip@gmail.com
+    [subject] => Aussie Vitamin Store: Account recovery Password: Confidential
+    [txt] => Hello Test001,<br><br>Your Username is #test001 .<br><br> Your new password is #17425 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-20 13:09:57 ... Params................::
+Array
+(
+    [to] => test001@email.com
+    [subject] => Aussie Vitamin Store: Order ID #1239
+    [txt] => Hello Test001,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1239 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2017-12-20 13:09:58 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1239 from Test001
+    [txt] => Hello,  <br><br>Test001 has placed the order at Aussie Vitamin Store. The order id #1239 . <br><br> 
+)
+
+========================================
+
+2018-01-05 21:36:59 ... Params................::
+Array
+(
+    [to] => amitghosal99@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1240
+    [txt] => Hello AMIT GHOSAL,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1240 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-05 21:36:59 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1240 from AMIT GHOSAL
+    [txt] => Hello,  <br><br>AMIT GHOSAL has placed the order at Aussie Vitamin Store. The order id #1240 . <br><br> 
+)
+
+========================================
+
+2018-01-05 21:39:20 ... Params................::
+Array
+(
+    [to] => amitghosal99@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1241
+    [txt] => Hello AMIT GHOSAL,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1241 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-05 21:39:21 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1241 from AMIT GHOSAL
+    [txt] => Hello,  <br><br>AMIT GHOSAL has placed the order at Aussie Vitamin Store. The order id #1241 . <br><br> 
+)
+
+========================================
+
+2018-01-17 06:58:35 ... Params................::
+Array
+(
+    [to] => ashish2759@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1242
+    [txt] => Hello Ashish Sarkar,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1242 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-17 06:58:35 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1242 from Ashish Sarkar
+    [txt] => Hello,  <br><br>Ashish Sarkar has placed the order at Aussie Vitamin Store. The order id #1242 . <br><br> 
+)
+
+========================================
+
+2018-01-17 07:13:34 ... Params................::
+Array
+(
+    [to] => amitghosal99@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1243
+    [txt] => Hello AMIT GHOSAL,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1243 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-17 07:13:35 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1243 from AMIT GHOSAL
+    [txt] => Hello,  <br><br>AMIT GHOSAL has placed the order at Aussie Vitamin Store. The order id #1243 . <br><br> 
+)
+
+========================================
+
+2018-01-17 07:21:21 ... Params................::
+Array
+(
+    [to] => ashish2759@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1244
+    [txt] => Hello Ashish Sarkar,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1244 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-17 07:21:22 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1244 from Ashish Sarkar
+    [txt] => Hello,  <br><br>Ashish Sarkar has placed the order at Aussie Vitamin Store. The order id #1244 . <br><br> 
+)
+
+========================================
+
+2018-01-17 07:24:25 ... Params................::
+Array
+(
+    [to] => ashish2759@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1245
+    [txt] => Hello Ashish Sarkar,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1245 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-17 07:24:26 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1245 from Ashish Sarkar
+    [txt] => Hello,  <br><br>Ashish Sarkar has placed the order at Aussie Vitamin Store. The order id #1245 . <br><br> 
+)
+
+========================================
+
+2018-01-19 02:34:16 ... Params................::
+Array
+(
+    [to] => ashish2759@gmail.com
+    [subject] => Aussie Vitamin Store: Order ID #1246
+    [txt] => Hello Ashish Sarkar,<br><br>Thank you for placing the order at Aussie Vitamin Store. Your order id #1246 . <br><br> <br><br>Thank you.
+)
+
+========================================
+
+2018-01-19 02:34:17 ... Params................::
+Array
+(
+    [to] => admin@aussievitaminstore.com
+    [subject] => Aussie Vitamin Store: Order ID #1246 from Ashish Sarkar
+    [txt] => Hello,  <br><br>Ashish Sarkar has placed the order at Aussie Vitamin Store. The order id #1246 . <br><br> 
+)
+
+========================================
